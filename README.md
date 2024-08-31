@@ -1,7 +1,10 @@
 ## Hi there 👋
 🌱 I’m currently working on Python and DevOps projects, focusing on building scalable and efficient systems.
+
 🌱 I’m currently learning: Advanced DevOps tools and practices to enhance my automation and cloud management skills.
+
 👯 I want to collaborate on Startups, open-source projects, and innovative tech solutions that drive real-world impact.
+
 💬 Ask me about Python development, DevOps pipelines, and automation strategies.
 
 <!--
