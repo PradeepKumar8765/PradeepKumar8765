@@ -3,8 +3,8 @@
 # Hi, I am Pradeep Kumar! Great to see you here! 👋
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-kumar-539225259/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaasq@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar-539225259/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:suhaasq@gmail.com)
 
 
 🔭 I’m currently working on Python and DevOps projects, focusing on building scalable and efficient systems.
