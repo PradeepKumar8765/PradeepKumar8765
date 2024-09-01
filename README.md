@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,git,github,linux,html,jenkins,docker,kubernetes,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,git,github,linux,html,jenkins,docker,kubernetes,prometheus,grafana)]
 
 
 
